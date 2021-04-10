@@ -18,10 +18,12 @@
         "role": "Developer"
         }
     ],
+    "minimum-stability" : "dev",
+    "prefer-stable" : true,
     "require": {
         "php": "^8.0.3",
         "zendtech/IbmiToolkit": "^1.8.0",
-        "lalbini/laravel-db2": "^7.0"
+        "lalbini/laravel-db2": "dev-master"
     },
     "require-dev": {
     },
