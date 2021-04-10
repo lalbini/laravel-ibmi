@@ -1,5 +1,5 @@
 {
-    "name": "cooperl/laravel-ibmi",
+    "name": "lalbini/laravel-ibmi",
     "description": "laravel-ibmi is a simple DB2 & Toolkit for IBMi service provider for Laravel. It provides DB2 Connection by extending the Illuminate Database component of the laravel framework. Plus it also provides Toolkit for IBMi so that you can access IBMi resources with same credentials.",
     "keywords": [
         "laravel",
