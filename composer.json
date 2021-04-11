@@ -21,7 +21,7 @@
     "minimum-stability" : "dev",
     "prefer-stable" : true,
     "require": {
-        "php": "^8.0.3",
+        "php": "^7.4",
         "zendtech/IbmiToolkit": "^1.8.0",
         "lalbini/laravel-db2": "dev-master"
     },
